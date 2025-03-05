@@ -1,9 +1,15 @@
-# Node version
+# PlayerJS React Test
 
-Use node version > 20
+## Prerequisites
 
-# Install dependencies and start development server
+- Use Node.js version **20 or higher**.
 
+## Installation and Development
+
+Run the following commands:
+
+```sh
 cd playerjs-react-test
 npm install
 npm run dev
+```
